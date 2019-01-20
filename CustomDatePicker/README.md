@@ -7,7 +7,7 @@
 	allprojects {
 		repositories {
 			...
-			maven { url "https://dl.bintray.com/renosyah/CustomDatePicker" }
+			maven { url "https://dl.bintray.com/renosyah/maven" }
 		}
 	}
 

@@ -18,7 +18,7 @@
 	allprojects {
 		repositories {
 			...
-			maven { url "https://dl.bintray.com/renosyah/CustomDialogGalleryFilePicker" }
+			maven { url "https://dl.bintray.com/renosyah/maven" }
 		}
 	}
 
