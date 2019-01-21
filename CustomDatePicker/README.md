@@ -1,19 +1,6 @@
 # Custom Date Picker
 
 
-* tambahkan kedalam build.gradle :
-
-```
-	allprojects {
-		repositories {
-			...
-			maven { url "https://dl.bintray.com/renosyah/maven" }
-		}
-	}
-
-```
-
-
 * tambahkan kedalam app.gradle :
 
 ```
