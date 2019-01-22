@@ -1,3 +1,20 @@
+# Custom Gallery File Picker 
+
+
+* Tampilan Activity untuk Daftar Gambar dari galery
+
+![GitHub Logo](../img/file_picker_1.png)
+
+
+
+
+
+* Tampilan Setelah memilih gambar
+
+![GitHub Logo](../img/file_picker_2.png)
+
+
+
 ## Instalasi
 
 

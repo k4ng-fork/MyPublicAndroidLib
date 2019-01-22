@@ -1,6 +1,14 @@
 # Custom Date Picker
 
 
+* tampilan dialog date picker : 
+
+
+![GitHub Logo](../img/date_picker.jpg)
+
+
+
+
 * tambahkan kedalam app.gradle :
 
 ```
