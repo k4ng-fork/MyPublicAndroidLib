@@ -4,7 +4,7 @@
 * tampilan dialog date picker : 
 
 
-![GitHub Logo](../img/date_picker.jpg)
+![GitHub Logo](../img/date_picker_small.jpg)
 
 
 
